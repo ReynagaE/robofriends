@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ELNATH Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ELNATH Regular'), url('ELNATH.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'ELNATH Regular';
+    font-weight: 200;
+    color: #0ccac4;
+}
