@@ -1,10 +1,8 @@
 import React from "react";
 
-//const h = 0.6 * Screen.height;
-
 const Scroll = (props) => {
     return (
-        <div style={{ overflow: 'scroll', border: '5px solid black', height: '800px'}}>
+        <div style={{ overflow: 'scroll', border: '5px solid black', height: '500px'}}>
             {props.children}
         </div>
     );
